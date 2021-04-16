@@ -15,6 +15,3 @@
 //= require turbolinks
 //= require jquery
 //= require_tree .
-$(document).ready(function(){
-    console.log('jQuery está funcionando');
-    });
